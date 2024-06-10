@@ -4,4 +4,4 @@ O desafio consiste em modelar e diagramar a representação UML do componente iP
 
 ## Diagrama UML
 
-![Diagrama UML](./docs\img\diagrama-uml.png)
+![Diagrama UML](./docs/img/diagrama-uml.png)
